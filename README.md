@@ -417,4 +417,5 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 **SkillSync 2.0** - Transforming the future of interview preparation through AI innovation.
 
-*Built with ❤️ and cutting-edge technology*
+*Built with ❤️ and cutting-edge technology*#   s k i l l s y n c  
+ 
