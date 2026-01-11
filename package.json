@@ -15,7 +15,7 @@
     "buffer": "^6.0.3",
     "bytez.js": "^1.1.18",
     "cross-fetch": "^4.1.0",
-    "firebase": "^10.14.0",
+    "firebase": "^12.7.0",
     "framer-motion": "^11.11.17",
     "lucide-react": "^0.460.0",
     "react": "^19.1.1",
